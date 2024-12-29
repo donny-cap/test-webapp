@@ -22,7 +22,7 @@ Phone Management System — это веб-приложение для управ
 ### Установка и запуск
 Клонируйте репозиторий:
 ```bash
-git clone https://github.com/donny-cap/test-app.git
+git clone https://github.com/donny-cap/test-webapp.git
 ```
 Перейдите в папку проекта:
 ```bash
